@@ -7,6 +7,12 @@ Provides a class and an interface for accessing environment variables.
 
 Static methods be damned!
 
+## Install
+
+`dotnet add package I-Env`
+
+https://www.nuget.org/packages/I-Env/
+
 ### How to pack
  - 'dotnet build'
  - 'dotnet pack'
